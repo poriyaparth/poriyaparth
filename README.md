@@ -216,3 +216,33 @@ A secure note-taking application supporting CRUD operations, search and note org
 </table>
 
 ---
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/parth-poriya-332487284/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Parth_Poriya_03/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="https://github.com/poriyaparth">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:parthporiya200595@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/poriyaparth">Parth Poriya</a> — Open to collaborations and opportunities!</i>
+</p>
