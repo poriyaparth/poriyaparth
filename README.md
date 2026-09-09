@@ -76,24 +76,6 @@
 
 ---
 
-## 💼 Experience
-
-### 🌐 Web Development Intern — UptoSkills
-**January 2026 – April 2026**
-
-- Developed authentication features and enhanced the admin dashboard for improved usability.
-- Tested REST APIs using Postman and collaborated in Agile development through daily stand-ups and progress tracking.
-- Worked with frontend and backend technologies to develop and debug web application modules.
-
-### 💻 Full Stack Development Intern — TechnoHacks Solutions Pvt. Ltd.
-**January 2026 – February 2026**
-
-- Developed responsive full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
-- Designed and integrated RESTful APIs for seamless frontend-backend communication.
-- Implemented Git-based version control and participated in application testing and deployment activities.
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -232,18 +214,5 @@ A secure note-taking application supporting CRUD operations, search and note org
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poriyaparth&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poriyaparth&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=poriyaparth&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
